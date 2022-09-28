@@ -1,3 +1,4 @@
+# code experimented with send/recv and isend/irecv
 from mpi4py import MPI
 import time
 
