@@ -1,3 +1,4 @@
+# code for send and recv
 from mpi4py import MPI
 import sys
 
