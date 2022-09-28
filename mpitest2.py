@@ -1,3 +1,4 @@
+# code experimented with sleep, wait, isend and irecv
 from mpi4py import MPI
 import time
 
